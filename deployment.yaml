@@ -10,7 +10,7 @@ spec:
   template:
     metadata:
       labels:
-        app:django-image
+        app: django-image
     spec:
       containers:
       - name: django-image
